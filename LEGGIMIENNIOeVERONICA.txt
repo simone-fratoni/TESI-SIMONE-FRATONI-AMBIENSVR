@@ -1,0 +1,11 @@
+Ciao Ennio & Veronica,
+Ho smanettato un po' con ATsync ed è fantastico rispetto all'importazione in FBX.
+Vi ho lasciato una piccola recensione su quello il tool è intuitivo e facile da usare.
+Ho visto che importa anche le armature ma non riesco a visualizzarle in Unity, non so se sia possibile come cosa.
+Per quanto riguarda AT explore sto ancora smanettando cercando di imparare come funziona, più che altro non riesco a selezionare gli elementi.
+Ovviamente appena capisco un po' meglio come posso sfruttarlo lascio una recensione come gia vi ho fatto per AT sync.
+Infine ho creato una cartella in git è la prima volta che lo uso sto imparando.
+Spero di essere riuscito a caricare almeno questo file di testo e con il tempo imparare ad usarlo.
+
+
+
